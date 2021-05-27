@@ -1,4 +1,5 @@
 # Lab7_fun-with-calculators
+Lab partners: Nina Weddige, Muhammad Jazzar
 Lab tasks: 
 
 1) Implement the missing functionality for single digit numbers and only one operator discovered in the pre-lab.
